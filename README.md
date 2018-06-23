@@ -13,4 +13,4 @@ discriminate upper-case and lower-case versions of the same letter, following th
 47 label set, upper- and lower-case labels are merged for the following letters: C, I, J, K, L, M, O, P, S, U, V, W,
 X, Y and Z.
 
-** The details of this project is shown in [the PDF file in the same repository](https://github.com/Mandy001/LR_BatchNorm_ConvNets/blob/master/Further%20exploring%20the%20classification%20of%20images%20of%20handwritten%20digits.pdf). **
+#### The details of this project is shown in [the PDF file](https://github.com/Mandy001/LR_BatchNorm_ConvNets/blob/master/Further%20exploring%20the%20classification%20of%20images%20of%20handwritten%20digits.pdf) in the same repository.
